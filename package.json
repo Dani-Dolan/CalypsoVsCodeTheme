@@ -6,7 +6,7 @@
   "publisher": "DangDani",
   "repository": {
     "type": "git", 
-    "url": ""
+    "url": "https://github.com/Dani-Dolan/CalypsoVsCodeTheme"
   },
   "engines": {
     "vscode": "^1.74.0"
