@@ -8,6 +8,14 @@
     "type": "git", 
     "url": "https://github.com/Dani-Dolan/CalypsoVsCodeTheme"
   },
+  "keywords": [
+    "vaporwave",
+    "theme", 
+    "dangdani",
+    "dark theme", 
+    "calypso", 
+    "cyberpunk"
+  ],
   "engines": {
     "vscode": "^1.74.0"
   },
