@@ -1,0 +1,26 @@
+{
+  "name": "Calypso",
+  "displayName": "Calypso",
+  "description": "Calypso",
+  "version": "0.0.1",
+  "publisher": "DangDani",
+  "repository": {
+    "type": "git", 
+    "url": ""
+  },
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Calypso",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Calypso-color-theme.json"
+      }
+    ]
+  }
+}
