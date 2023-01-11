@@ -17,7 +17,7 @@
     "cyberpunk"
   ],
   "icon": 
-    "icon.png",
+    "icon-removebg-preview.png",
   "engines": {
     "vscode": "^1.74.0"
   },
