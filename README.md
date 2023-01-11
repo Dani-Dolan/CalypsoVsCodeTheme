@@ -1,5 +1,3 @@
-# Calypso Theme for VSCode
-
 <p align="center">
   <img alt="Calpyso Logo" src="https://raw.githubusercontent.com/Dani-Dolan/CalypsoVsCodeTheme/main/icon-removebg-preview.png" width="100" />
 </p>
