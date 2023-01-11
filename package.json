@@ -16,6 +16,8 @@
     "calypso", 
     "cyberpunk"
   ],
+  "icon": 
+    "icon.png",
   "engines": {
     "vscode": "^1.74.0"
   },
