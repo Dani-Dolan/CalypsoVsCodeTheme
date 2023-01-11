@@ -1,14 +1,29 @@
-# Calypso README
+# Calypso Theme for VSCode
 
-## Working with Markdown
+<p align="center">
+  <img alt="Calpyso Logo" src="https://raw.githubusercontent.com/Dani-Dolan/CalypsoVsCodeTheme/main/icon-removebg-preview.png" width="100" />
+</p>
+<h1 align="center">
+  Calypso Theme for VS Code
+</h1>
+<p align="center">
+  A cyberpunk inspired theme
+</p>
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+![demo](https://raw.githubusercontent.com/Dani-Dolan/CalypsoVsCodeTheme/main/demo.png)
 
-Calypso Dark Theme for VSCode
+## Installation via VS Code
 
-## For more information
+1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
+2. Search for `Calypso`
+3. Click **Install** to install it
+4. Click **Reload** to reload the editor
+5. Code > Preferences > Color Theme > **Calpyso**
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Theming Reference
 
-**Enjoy!**
+[VS Code Theme Color Reference](https://code.visualstudio.com/docs/getstarted/theme-color-reference)
+
+[VS Code Theme Documentation](https://code.visualstudio.com/docs/extensions/themes-snippets-colorizers)
+
+[VS Code Publishing Extensions](https://code.visualstudio.com/docs/extensions/publish-extension)
